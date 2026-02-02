@@ -1,4 +1,4 @@
-[original/source](https://github.com/kaede-basement/kaede)
+[original/source](https://github.com/kaede-basement/kaede/blob/nightly/docs/MULTIMC.md)
 
 # MultiMC Patch System
 
